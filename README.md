@@ -11,7 +11,8 @@ A simple calculator application built using **React**, with no external math lib
   - **DEL (Delete)**: Deletes the last entered digit.
 - **No External Math Libraries**: All calculations are implemented manually using JavaScript.
 
-- ![Sample Video GIF](assets/video.gif)
+  ![Recording2025-01-06141037-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2ef68949-7273-41cc-b206-fe5063e19fb3)
+
 
 
 
